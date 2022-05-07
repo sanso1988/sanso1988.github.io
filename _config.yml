@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: Master Wang's space
 description: self-learning blog
+markdown: kramdown
