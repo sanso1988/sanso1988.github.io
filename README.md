@@ -4,7 +4,7 @@ Master Wang has a education backgroud in statistics, who is still curious about 
 
 ### Contents
 
-[docs/simple_policy_gradient.md]
+[Simple Policy Gradient Algorithm](docs/simple_policy_gradient.md)
 
 
 
