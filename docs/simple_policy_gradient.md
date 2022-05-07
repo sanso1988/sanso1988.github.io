@@ -1,3 +1,7 @@
+```
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+```
+
 # Simple Policy Gradient Algorithm
 
 Basic idea of Policy Gradient(PG) Algorithm is to improve policy directly, what's different from value-based algorithm which want to find the ture value of state and action. Actually OpenAI Spinning Up[1] give a clear demonstration about PG, you can see this document as a note of that.
