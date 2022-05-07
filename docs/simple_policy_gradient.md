@@ -75,7 +75,9 @@ $$
 
 Policy gradient algorithms improve policy via parameter updating, target function gradient calculation is the key. According to mathmatical derivation, the gradient can be estimated by average function of agent-environment interacting information. It means agent keep interacting with environment , gather information to calculate the gradient estimator to update the parameter. This process goes on literally until we get the optimum policy (or good enough).
 
+## Implemetation
 
+This algorithm implementaion you can find at [simple_pg.py](https://github.com/sanso1988/Simple-Reinforcement-Learning-Algorithm/tree/master/PG/Simple)
 
 
 
