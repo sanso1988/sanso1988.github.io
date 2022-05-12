@@ -6,6 +6,7 @@ Master Wang has a education backgroud in statistics, who is still curious about 
 
 - [Simple Policy Gradient Algorithm](docs/simple_policy_gradient.html)
 - [Vanilla Policy Gradient Algorithm](docs/vanilla_policy_gradient.html)
+- [Proximal Policy Optimization Algorithm](docs/proximal_policy_optimization.html)
 
 
 
