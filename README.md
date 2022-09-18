@@ -1,14 +1,16 @@
 ## Welcome to Master Wang's Interesting Space
 
-Master Wang has a education backgroud in statistics, who is still curious about the fantastic things in technical area, especially reinforcement learning, machine learning, etc. This blog is to share with ideal or something about technical paper or book readed recently for self-learning purpose. 
+This blog is to show the reading notes of some books pertain to machine learning, especially deep learning, reinforcement learning, etc.
 
-### Contents
+### Reinforcement Learning Algorithms
 
 - [Simple Policy Gradient Algorithm](docs/simple_policy_gradient.html)
 - [Vanilla Policy Gradient Algorithm](docs/vanilla_policy_gradient.html)
 - [Proximal Policy Optimization Algorithm](docs/proximal_policy_optimization.html)
 
+## Deep Learning Book
 
+- [Chapter 1 Introduction](docs/deep_learning_book_chapter1.html)
 
 
 
