@@ -11,9 +11,11 @@ This blog is to show the reading notes of some books pertain to machine learning
 ## Deep Learning Book
 
 - [Chapter 1 Introduction](docs/deep_learning_book_chapter1.html)
+- [Chapter 2 Linear Algebra](docs/deep_learning_book_chapter2.html)
 
 
 
 ### Contact
 
 If you find anything uncorrect or wrong, don't hesitate to comment, i am very happy to correct it.
+
