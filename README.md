@@ -12,8 +12,7 @@ This blog is to show the reading notes of some books pertain to machine learning
 
 - [Chapter 1 Introduction](docs/deep_learning_book_chapter1.html)
 - [Chapter 2 Linear Algebra](docs/deep_learning_book_chapter2.html)
-
-
+- [Chapter 7 Regularization](docs/deep_learning_book_chapter7.html)
 
 ### Contact
 
