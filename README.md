@@ -16,6 +16,7 @@ This blog is to show the reading notes of some books pertain to machine learning
 - [Chapter 8 Optimization](docs/deep_learning_book_chapter8.html)
 - [Chapter 9 Convolution](docs/deep_learning_book_chapter9.html)
 - [Chapter 10 Recurrent](docs/deep_learning_book_chapter10.html)
+- [Chapter 11 Practical Methodology](docs/deep_learning_book_chapter11.html)
 
 ### Contact
 
